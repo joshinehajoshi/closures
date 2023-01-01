@@ -6,4 +6,4 @@ function x() {
     return close
 }
 
-console.log(x()())
+x()()
